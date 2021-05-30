@@ -8,7 +8,7 @@ Build a screen recorder with Electron from scratch.
 * download this zip 
 * unzip it 
 * drag folder to vscode icon to open it 
-* subcribe to me and like my video
+* subcribe to me and like my video 
 ## commands
 * open terminal in vscode 
 * change to bash or cmd
@@ -19,3 +19,6 @@ Build a screen recorder with Electron from scratch.
 * A setup should be created and ready to be installed 
 #Tada!! you are all set to go
 #welcome guys!!!!!!!!!!!!
+
+#video guide
+https://youtu.be/C-pkX-Qbvoo
