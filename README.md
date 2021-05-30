@@ -17,8 +17,9 @@ Build a screen recorder with Electron from scratch.
 * the window should start
 * type `npm run make`
 * A setup should be created and ready to be installed 
-#Tada!! you are all set to go
-#welcome guys!!!!!!!!!!!!
+
+
+
 # download 
 setup 
 https://mega.nz/file/9DAkVDqA#WTFiWklg29qzZ0xRBP1PKqNujIZgjrem5VB7cKqZeaA
@@ -26,3 +27,8 @@ https://mega.nz/file/9DAkVDqA#WTFiWklg29qzZ0xRBP1PKqNujIZgjrem5VB7cKqZeaA
 # Video Guide
 
 [![Subscribe](https://img.youtube.com/vi/C-pkX-Qbvoo/0.jpg)](https://youtu.be/C-pkX-Qbvoo)
+
+
+# Tada!! you are all set to go
+
+# welcome guys!!!!!!!!!!!!
